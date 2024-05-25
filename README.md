@@ -1,1 +1,2 @@
-# Daily DSA practise [JAVASCRIPT], learnings
+# Daily DSA practise in [JAVASCRIPT]
+
