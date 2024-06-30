@@ -9,6 +9,9 @@ function summation(i,sum){
 }
 
 console.log('parameter wise sum of first natural numbers using [recursion]');
-summation(10,0);
+
+console.log("10");  summation(10,0);
+console.log("20"); summation(20,0);
+console.log("0"); summation(0,0);
 
 
