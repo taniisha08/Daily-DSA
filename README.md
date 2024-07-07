@@ -1,2 +1,2 @@
-# Daily DSA practise in [JAVASCRIPT]
+# Daily DSA practise
 
