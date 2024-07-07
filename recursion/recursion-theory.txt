@@ -1,0 +1,8 @@
+RECURSION => facts to remember 
+
+- without a base condition, infinite recusion might lead to stack overflow / segmentation fault.
+- segmentation fault / stack overflow : calling of a recursive function multiple 
+times without a proper base condition 
+which can lead to over flow of the system's stack memory. 
+- time complexity : O(n)/ O(nlogn)
+- space complexity : O(n)

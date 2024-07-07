@@ -1,0 +1,21 @@
+### THOSE WHO CANNOT REMEMBER THE PAST ARE CONDEMNED TO REPEAT IT ###
+
+dynamic programming (2 approaches in DP)
+1. Memoization -> Top Down 
+2. Tabulation -> Bottom Up 
+
+
+MEMOIZATION [Top Down] = when we tend to store the values of 
+    sub problems of a functions 
+    which needs to  be re-computed in a map / table.
+
+
+TABULATION [Bottom UP] = when we go from the base case to the required solution.
+
+#recursion is a parent of DP.
+#if there are choice in a question -> recursion (guaranteed)
+but if recursion has multiple and same function calls -> DP (guaranteed)
+also when we are asked for optimal/min/max solution -> DP (guaranteed)
+
+
+DP -> used when recursion has overlapping sub problems.
